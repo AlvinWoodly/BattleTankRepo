@@ -9,3 +9,6 @@ simple test for unreal engine.
 for more info contact me:
 * [facebook](https://www.facebook.com/alvin.woodly)
 * [instagram](https://www.instagram.com/alvin_reallytho/?hl=en)
+
+items done so far:
+

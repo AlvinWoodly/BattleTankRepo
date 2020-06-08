@@ -11,4 +11,5 @@ for more info contact me:
 * [instagram](https://www.instagram.com/alvin_reallytho/?hl=en)
 
 items done so far:
+* connected with sourcetree
 

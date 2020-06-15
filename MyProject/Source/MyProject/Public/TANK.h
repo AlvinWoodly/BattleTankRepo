@@ -4,16 +4,16 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
-#include "TANK.generated.h"
+#include "Tank.generated.h"
 
 UCLASS()
-class MYPROJECT_API ATANK : public APawn
+class MYPROJECT_API ATank : public APawn
 {
 	GENERATED_BODY()
 
 public:
 	// Sets default values for this pawn's properties
-	ATANK();
+	ATank();
 
 protected:
 	// Called when the game starts or when spawned

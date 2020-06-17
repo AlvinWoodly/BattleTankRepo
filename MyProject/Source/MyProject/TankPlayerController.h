@@ -19,5 +19,11 @@ class MYPROJECT_API ATankPlayerController : public APlayerController
 	public:
 
 	ATank* GetControlledTank() const;
+
+	AActor* TankInUse = nullptr;
+
+	void checkfortank();
+	virtual void  BeginPlay() override;
+
 	
 };
